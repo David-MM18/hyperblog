@@ -1,5 +1,1 @@
 Hola soy Miguel este es mi primer intento en git exito Miguel
-
-Vivo en venezuela
-
-mi obra maestra hasta ahora es un proyecto de java para una enpresa
